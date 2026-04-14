@@ -2,35 +2,46 @@
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
 # UPDATED: 2026-04-14
-# DOMAIN-SUFFIX: 13
-# DOMAIN: 10
+# DOMAIN-SUFFIX: 11
+# DOMAIN: 14
 # IP-CIDR: 2
-# TOTAL: 25
+# TOTAL: 27
 
+# 社区 / 开发
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+
+# Emby / 影视 / 流媒体
 DOMAIN,a.emby.my
 DOMAIN-SUFFIX,okemby.org,extended-matching
-IP-CIDR,209.141.61.153/32,no-resolve
 DOMAIN-SUFFIX,misty.cx
-DOMAIN-SUFFIX,shuzijumin.com
 DOMAIN,dl.carryz.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,apple-cdn.net
 DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN,emby.heisi.org
 DOMAIN,speedtest-babybus.apple-cdn.net
 DOMAIN,lt1.carryz.net
-DOMAIN,yd2.carryz.net
 DOMAIN,yd1.carryz.net
-DOMAIN,audiopay.pcdn.xmcdn.com
+DOMAIN,yd2.carryz.net
 DOMAIN,gyplay2.xxlb.net
 DOMAIN,cflocal.xxlb.net
-IP-CIDR,164.52.32.133/32,no-resolve
 DOMAIN,us.637567.xyz
 DOMAIN,tv.xmax.vip
 DOMAIN,t.744444.xyz
-DOMAIN-SUFFIX,raw.githubusercontent.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,nodeseek.com
+IP-CIDR,209.141.61.153/32,no-resolve
+IP-CIDR,164.52.32.133/32,no-resolve
+
+# Apple
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apple-cdn.net
+
+# Bilibili
+DOMAIN-SUFFIX,bilivideo.com
+
+# 音频
+DOMAIN,audiopay.pcdn.xmcdn.com
+
+# 其它
+DOMAIN-SUFFIX,shuzijumin.com
