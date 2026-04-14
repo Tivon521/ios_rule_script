@@ -33,10 +33,6 @@ DOMAIN,t.744444.xyz
 IP-CIDR,209.141.61.153/32,no-resolve
 IP-CIDR,164.52.32.133/32,no-resolve
 
-# Apple
-DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,apple-cdn.net
-
 # Bilibili
 DOMAIN-SUFFIX,bilivideo.com
 
