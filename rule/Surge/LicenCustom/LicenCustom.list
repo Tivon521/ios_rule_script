@@ -2,24 +2,24 @@
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
 # UPDATED: 2026-04-14
-# DOMAIN-SUFFIX: 1
-# DOMAIN: 12
+# DOMAIN-SUFFIX: 2
+# DOMAIN: 10
 # IP-CIDR: 2
-# TOTAL: 15
+# TOTAL: 14
 
-DOMAIN-SUFFIX,okemby.org,licen,extended-matching
-DOMAIN,a.emby.my,licen
-DOMAIN,emby.heisi.org,licen
-DOMAIN,speedtest-babybus.apple-cdn.net,licen
-DOMAIN,lt1.carryz.net,licen
-DOMAIN,yd1.carryz.net,licen
-DOMAIN,yd2.carryz.net,licen
-DOMAIN,audiopay.pcdn.xmcdn.com,licen
-DOMAIN,gyplay2.xxlb.net,licen
-DOMAIN,cflocal.xxlb.net,licen
-DOMAIN,itunes.apple.com,licen
-DOMAIN-SUFFIX,nodeseek.com,licen
-DOMAIN,tv.xmax.vip,licen
-DOMAIN,t.744444.xyz,licen
-IP-CIDR,209.141.61.153/32,licen,no-resolve
-IP-CIDR,164.52.32.133/32,licen,no-resolve
+DOMAIN-SUFFIX,okemby.org,extended-matching
+DOMAIN,a.emby.my
+DOMAIN,emby.heisi.org
+DOMAIN,speedtest-babybus.apple-cdn.net
+DOMAIN,lt1.carryz.net
+DOMAIN,yd1.carryz.net
+DOMAIN,yd2.carryz.net
+DOMAIN,audiopay.pcdn.xmcdn.com
+DOMAIN,gyplay2.xxlb.net
+DOMAIN,cflocal.xxlb.net
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN,tv.xmax.vip
+DOMAIN,t.744444.xyz
+IP-CIDR,209.141.61.153/32,no-resolve
+IP-CIDR,164.52.32.133/32,no-resolve
