@@ -2,8 +2,8 @@
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
 # UPDATED: 2026-05-15
-# DOMAIN-SUFFIX: 11
-# DOMAIN: 15
+# DOMAIN-SUFFIX: 12
+# DOMAIN: 14
 # IP-CIDR: 2
 # TOTAL: 28
 
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN,emby.heisi.org
 DOMAIN,speedtest-babybus.apple-cdn.net
-DOMAIN,speedtest-peppapig.apple-cdn.net
+DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 DOMAIN,lt1.carryz.net
 DOMAIN,yd1.carryz.net
 DOMAIN,yd2.carryz.net
