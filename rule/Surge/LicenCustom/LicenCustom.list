@@ -2,10 +2,10 @@
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
 # UPDATED: 2026-05-15
-# DOMAIN-SUFFIX: 12
-# DOMAIN: 14
+# DOMAIN-SUFFIX: 24
+# DOMAIN: 0
 # IP-CIDR: 2
-# TOTAL: 28
+# TOTAL: 26
 
 # 社区 / 开发
 DOMAIN-SUFFIX,linux.do
@@ -14,23 +14,23 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # Emby / 影视 / 流媒体
-DOMAIN,a.emby.my
+DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,okemby.org,extended-matching
 DOMAIN-SUFFIX,misty.cx
-DOMAIN,dl.carryz.net
+DOMAIN-SUFFIX,dl.carryz.net
 DOMAIN-SUFFIX,kfc.v50.su
 DOMAIN-SUFFIX,mobai.sbs
-DOMAIN,emby.heisi.org
-DOMAIN,speedtest-babybus.apple-cdn.net
+DOMAIN-SUFFIX,emby.heisi.org
+DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
 DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
-DOMAIN,lt1.carryz.net
-DOMAIN,yd1.carryz.net
-DOMAIN,yd2.carryz.net
-DOMAIN,gyplay2.xxlb.net
-DOMAIN,cflocal.xxlb.net
-DOMAIN,us.637567.xyz
-DOMAIN,tv.xmax.vip
-DOMAIN,t.744444.xyz
+DOMAIN-SUFFIX,lt1.carryz.net
+DOMAIN-SUFFIX,yd1.carryz.net
+DOMAIN-SUFFIX,yd2.carryz.net
+DOMAIN-SUFFIX,gyplay2.xxlb.net
+DOMAIN-SUFFIX,cflocal.xxlb.net
+DOMAIN-SUFFIX,us.637567.xyz
+DOMAIN-SUFFIX,tv.xmax.vip
+DOMAIN-SUFFIX,t.744444.xyz
 IP-CIDR,209.141.61.153/32,no-resolve
 IP-CIDR,164.52.32.133/32,no-resolve
 
@@ -38,7 +38,7 @@ IP-CIDR,164.52.32.133/32,no-resolve
 DOMAIN-SUFFIX,bilivideo.com
 
 # 音频
-DOMAIN,audiopay.pcdn.xmcdn.com
+DOMAIN-SUFFIX,audiopay.pcdn.xmcdn.com
 
 # 其它
 DOMAIN-SUFFIX,shuzijumin.com
