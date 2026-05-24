@@ -2,10 +2,10 @@
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
 # UPDATED: 2026-05-24
-# DOMAIN-SUFFIX: 27
+# DOMAIN-SUFFIX: 28
 # DOMAIN: 0
 # IP-CIDR: 2
-# TOTAL: 29
+# TOTAL: 30
 
 # 社区 / 开发
 DOMAIN-SUFFIX,linux.do
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,emby.heisi.org
 
 # 屿森影视服公益服
 DOMAIN-SUFFIX,ccwu.cc
+DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yun.mcloud.139.com
 DOMAIN-SUFFIX,cmecloud.cn
 
