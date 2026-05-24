@@ -5,7 +5,8 @@
 # DOMAIN-SUFFIX: 25
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 1
-# TOTAL: 33
+# IP-CIDR: 1
+# TOTAL: 34
 
 # OpenAI / ChatGPT / Codex
 DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -40,4 +41,5 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
+IP-CIDR,108.160.170.26/32,no-resolve
 DOMAIN-KEYWORD,openai
