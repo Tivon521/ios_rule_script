@@ -4,10 +4,10 @@
 # UPDATED: 2026-10-01 12:00:00
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 28
+# DOMAIN-SUFFIX: 29
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 39
+# TOTAL: 40
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,ecto1.ai
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
