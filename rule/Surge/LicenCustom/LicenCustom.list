@@ -1,11 +1,12 @@
 # NAME: LicenCustom
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
-# UPDATED: 2026-05-24
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2026-10-16
+# DOMAIN-SUFFIX: 50
 # DOMAIN: 0
+# DOMAIN-KEYWORD: 2
 # IP-CIDR: 2
-# TOTAL: 31
+# TOTAL: 54
 
 # 社区 / 开发
 DOMAIN-SUFFIX,linux.do
@@ -52,3 +53,33 @@ DOMAIN-SUFFIX,audiopay.pcdn.xmcdn.com
 
 # 其它
 DOMAIN-SUFFIX,shuzijumin.com
+
+# 红果短剧 & 番茄小说
+# 1. 红果与番茄专属业务域名
+DOMAIN-SUFFIX,hongguoduanju.com
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovelsdk.com
+DOMAIN-SUFFIX,fanqienovel.com
+DOMAIN-SUFFIX,fanqiesdk.com
+DOMAIN-SUFFIX,novelfm.com
+DOMAIN-SUFFIX,novelquickapp.com
+DOMAIN-KEYWORD,hongguo
+DOMAIN-KEYWORD,fqnovel
+
+# 2. 字节系底层 API、账号鉴权与静态资源
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,bytegecko.com
+
+# 3. 火山引擎与字节视频流 CDN（保障视频秒开与高清画质）
+DOMAIN-SUFFIX,bdcdn.net
+DOMAIN-SUFFIX,bytecdntp.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,TTLbcdn.com
