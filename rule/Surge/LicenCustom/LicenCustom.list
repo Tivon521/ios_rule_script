@@ -1,11 +1,12 @@
 # NAME: LicenCustom
 # AUTHOR: Tivon521 + OpenClaw
 # REPO: https://github.com/Tivon521/ios_rule_script
-# UPDATED: 2026-05-24
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2026-10-16
+# DOMAIN-SUFFIX: 30
 # DOMAIN: 0
+# DOMAIN-KEYWORD: 5
 # IP-CIDR: 2
-# TOTAL: 31
+# TOTAL: 39
 
 # 社区 / 开发
 DOMAIN-SUFFIX,linux.do
@@ -52,3 +53,13 @@ DOMAIN-SUFFIX,audiopay.pcdn.xmcdn.com
 
 # 其它
 DOMAIN-SUFFIX,shuzijumin.com
+
+# 广告拦截
+DOMAIN-KEYWORD,ad.qznovelvod
+DOMAIN-KEYWORD,applog
+DOMAIN-KEYWORD,dig.bdurl
+DOMAIN-KEYWORD,dig.zjurl
+DOMAIN-KEYWORD,snssdk.com
+DOMAIN-SUFFIX,ndcpp.com
+AND,((DOMAIN-KEYWORD,fqnovel),(DOMAIN-KEYWORD,misc))
+AND,((DOMAIN-KEYWORD,zijieapi),(DOMAIN-KEYWORD,ads))
