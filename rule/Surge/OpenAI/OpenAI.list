@@ -1,63 +1,11 @@
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-10-16 12:00:00
-# DOMAIN: 24
+# UPDATED: 2026-10-01 12:00:00
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 57
+# DOMAIN-SUFFIX: 35
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 85
+# TOTAL: 46
 DOMAIN,browser-intake-datadoghq.com, DOMAIN,chat.openai.com.cdn.cloudflare.net, DOMAIN,openai-api.arkoselabs.com, DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, DOMAIN,openaicomproductionae4b.blob.core.windows.net, DOMAIN,production-openaicom-storage.azureedge.net, DOMAIN,static.cloudflareinsights.com, DOMAIN-SUFFIX,ai.com, DOMAIN-SUFFIX,algolia.net, DOMAIN-SUFFIX,api.statsig.com, DOMAIN-SUFFIX,auth0.com, DOMAIN-SUFFIX,chatgpt.com, DOMAIN-SUFFIX,chatgpt.livekit.cloud, DOMAIN-SUFFIX,client-api.arkoselabs.com, DOMAIN-SUFFIX,events.statsigapi.net, DOMAIN-SUFFIX,featuregates.org, DOMAIN-SUFFIX,host.livekit.cloud, DOMAIN-SUFFIX,identrust.com, DOMAIN-SUFFIX,intercom.io, DOMAIN-SUFFIX,intercomcdn.com, DOMAIN-SUFFIX,launchdarkly.com, DOMAIN-SUFFIX,oaistatic.com, DOMAIN-SUFFIX,oaiusercontent.com, DOMAIN-SUFFIX,observeit.net, DOMAIN-SUFFIX,openai.com, DOMAIN-SUFFIX,openaiapi-site.azureedge.net, DOMAIN-SUFFIX,openaicom.imgix.net, DOMAIN-SUFFIX,segment.io, DOMAIN-SUFFIX,sentry.io, DOMAIN-SUFFIX,stripe.com, DOMAIN-SUFFIX,turn.livekit.cloud, DOMAIN-SUFFIX,muse.ai, DOMAIN-SUFFIX,meta.ai, DOMAIN-SUFFIX,museai.com, DOMAIN-SUFFIX,ecto1.ai, DOMAIN-SUFFIX,metaaivm.com, DOMAIN-SUFFIX,meta.com, DOMAIN-SUFFIX,facebook.com, DOMAIN-SUFFIX,facebook.net, DOMAIN-SUFFIX,fb.com, DOMAIN-SUFFIX,fbcdn.net, DOMAIN-SUFFIX,fbsbx.com, DOMAIN-KEYWORD,openai, IP-CIDR,24.199.123.28/32,no-resolve, IP-CIDR,64.23.132.171/32,no-resolve, IP-ASN,20473,no-resolve
-
-# Microsoft Copilot
-# 1. Copilot 核心入口、移动端与语音/画图 API
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,copilot.awi.microsoft.com
-DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,designer.microsoft.com
-DOMAIN,designerapp.officeapps.live.com
-DOMAIN,speech.platform.bing.com
-DOMAIN,www.bingapis.com
-
-# 2. Microsoft 365 客户端内嵌 Copilot (Word/Excel/PPT/Outlook)
-DOMAIN-SUFFIX,cloud.microsoft
-DOMAIN-SUFFIX,augloop.office.com
-DOMAIN-SUFFIX,substrate.office.com
-DOMAIN,ecs.office.com
-DOMAIN,officeclient.microsoft.com
-DOMAIN,graph.microsoft.com
-DOMAIN,osi.office.net
-DOMAIN,odin.oretail.microsoft.com
-
-# 3. 微软账号 OAuth 鉴权与防锁区定位校验
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,login.microsoftonline.com
-DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN,account.microsoft.com
-DOMAIN,location.microsoft.com
-DOMAIN,edge.microsoft.com
-DOMAIN,api.msn.com
-DOMAIN,assets.msn.com
-DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN,in.appcenter.ms
-DOMAIN,OneCollector.cloudapp.aria.akadns.net
-
-# 4. Bing 国际版搜索底座
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,r.bing.com
-
-# 5. GitHub Copilot (代码补全与 Chat)
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-
-# 6. 人机验证防卡盾 (Cloudflare Turnstile / Arkose)
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,funcaptcha.com
-DOMAIN-SUFFIX,arkoselabs.com
