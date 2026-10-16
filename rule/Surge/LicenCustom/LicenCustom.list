@@ -54,7 +54,7 @@ DOMAIN-SUFFIX,audiopay.pcdn.xmcdn.com
 # 其它
 DOMAIN-SUFFIX,shuzijumin.com
 
-# 广告拦截
+# 字节跳动
 DOMAIN-KEYWORD,ad.qznovelvod
 DOMAIN-KEYWORD,applog
 DOMAIN-KEYWORD,dig.bdurl
